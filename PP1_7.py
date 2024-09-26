@@ -1,6 +1,6 @@
 '''
     Lesson: Booleans
-    Author: Joyce
+    Author: Joyce Chen
     Date Created: Sept 26, 2024
     Date Last Modified: Sept 26, 2024
 '''
