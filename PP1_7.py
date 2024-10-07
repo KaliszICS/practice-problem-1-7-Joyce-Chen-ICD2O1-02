@@ -11,18 +11,15 @@ def q1():
 
 def q2():
   bool2 = int(input("Input an integer: "))
-  bool2 = 5 < bool2
-  print(bool2)
+  print(bool2 > 5)
 
 def q3():
   bool3 = input("Input the letter a: ")
-  bool3 = bool3 == "a" 
-  print(bool3)
+  print(bool3 == "a")
 
 def q4():
   bool4 = input("Input a word earlier in the dictionary than google: ")
-  bool4 = bool4 < "google"
-  print(bool4)
+  print(bool4 < "google")
 
 def q5():
   int1 = int(input("Input an integer: "))
